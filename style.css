@@ -1,0 +1,18 @@
+*{
+  background-color: beige;
+  text-align: center;
+}
+.heading{
+  text-align: center;
+}
+ul{
+  list-style: none;
+}
+.dish{
+  height: auto;
+  width: 450px;
+}
+.gif{
+  height: auto;
+  width: 300px;
+}
