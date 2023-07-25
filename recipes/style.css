@@ -1,0 +1,20 @@
+*{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: beige;  
+}
+.center{
+  width: 300px;
+  margin: 0 auto;
+  text-align: left; 
+}
+li{
+  text-align: left;
+}
+.turf{
+  height: auto;
+  width: 400px;
+}
+p, li{
+  font-size: large;
+}
