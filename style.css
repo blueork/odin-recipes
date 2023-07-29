@@ -22,8 +22,22 @@
   width: 700px;
   margin: 0 auto;
 }
+.dishName{
+  margin-left: 190px;
+  margin-right: 190px;;
+}
 .dishDescription{
-  margin: 190px;
-  width: 500px; 
+  display: inline-block;
+  width: 380px;
   /* here since the element is of type span, having display:inline thus width has no effect  */
+  /* thus we set display: inline-block */
+  height: 0 auto;
+  margin-left: 70px;
+  margin-right: 70px;
+  padding-bottom: 50px; 
+  vertical-align: top;
+  /* for inline-block, by default the vertical-align is set to 
+  baseline, set it to vertical-align: top */
+  /* https://stackoverflow.com/questions/56433000/why-my-html-
+  element-is-starting-from-the-bottom-if-i-apply-the-display-inline */
 }
