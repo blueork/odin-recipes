@@ -18,3 +18,7 @@ ul{
   height: auto;
   width: 300px;
 }
+.recipe-book-description{
+  width: 700px;
+  margin: 0 auto;
+}
