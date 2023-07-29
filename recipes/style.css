@@ -11,9 +11,9 @@
 li{
   text-align: left;
 }
-.turf{
+.imageContainer{
   height: auto;
-  width: 400px;
+  width: 700px;
 }
 p, li{
   font-size: large;
