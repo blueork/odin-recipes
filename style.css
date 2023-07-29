@@ -3,16 +3,19 @@
   text-align: center;
   font-family: 'Times New Roman', Times, serif;
   font-size: large;
+  box-sizing: border-box;
 }
 .heading{
   text-align: center;
 }
-ul{
-  list-style: none;
-}
 .dish{
   height: auto;
   width: 450px;
+}
+.imageContainer{
+  height: auto;
+  width: 450px;
+  margin: 30px;
 }
 .gif{
   height: auto;
@@ -21,4 +24,9 @@ ul{
 .recipe-book-description{
   width: 700px;
   margin: 0 auto;
+}
+.dishDescription{
+  margin: 190px;
+  width: 500px; 
+  /* here since the element is of type span, having display:inline thus width has no effect  */
 }
