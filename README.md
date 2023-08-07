@@ -1,3 +1,3 @@
 # odin-recipes
 
-My First HTML Project under the The Onion Project. Using HTML, git and github for this project. A simple recipe website. Brutalism at its peak.
+My First Project under the The Odin Project. Experimenting with HTML, CSS, git, and Github in this project. A simple digital recipe website. Brutalism at its peak.
